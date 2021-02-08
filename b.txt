@@ -1,1 +1,5 @@
 This is b.txt
+// swap a, b in c
+int temp = a;
+a = b;
+b = temp;
