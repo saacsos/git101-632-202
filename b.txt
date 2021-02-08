@@ -1,1 +1,3 @@
 This is b.txt
+# swap a, b in python
+a, b = b, a
